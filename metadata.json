@@ -1,0 +1,6 @@
+{
+  "name": "Vishnu Malligai - Retail Store & Order Dashboard",
+  "description": "Bilingual storefront and real-time inventory and order management system for Vishnu Malligai local retail grocery shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
